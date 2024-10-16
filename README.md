@@ -1,6 +1,7 @@
  ![Image][def]
 
 [def]: https://miro.medium.com/v2/resize:fit:720/format:webp/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg
+## Hi there 👋
 
 # 🚀 About Me
 
@@ -18,7 +19,7 @@ Javascript, HTML, CSS, Phyton
  
 
 <!--
-## Hi there 👋
+
 
 
 **Coferri/Coferri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
