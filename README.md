@@ -1,6 +1,6 @@
  ![Image][def]
 
-[def]: https://miro.medium.com/v2/resize:fit:720/format:webp/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg](https://raw.githubusercontent.com/Coferri/Coferri/refs/heads/main/header.png
+[def]: https://raw.githubusercontent.com/Coferri/Coferri/refs/heads/main/header.png
 ## Hi there 👋
 
 # 🚀 About Me
