@@ -6,6 +6,9 @@
 # 🚀 About Me
 
 My professional background is rooted in the telecommunications industry, where I spent a decade honing my skills as a meticulous and results-oriented individual. Transitioning into software engineering, I have embraced the opportunity to expand my technical expertise. As a detail-oriented engineer, I take pride in producing high-quality work. My eagerness to learn and explore new technologies drives me to stay at the forefront of innovation. I thrive in collaborative environments and excel under pressure, effectively leveraging teamwork to achieve project goals. With my unwavering commitment to delivering exceptional results and a passion for solving complex challenges, I am well-suited to contribute to the success of any software engineering team.
+akakakakkaka
+
+aaaakakkaka
 
 ## 🛠 Skills
 Javascript, HTML, CSS, Phyton
